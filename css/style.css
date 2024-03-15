@@ -651,7 +651,7 @@ aside .pages {
     transition: 0.5s;
     padding: 60px 25px 20px 30px;
     z-index: 2;
-    background: #d3c9c1;
+    background: #181615;
 }
 
 .header-right-sidebar img {
@@ -674,19 +674,20 @@ aside .pages {
 }
 
 .header-right-sidebar p {
-    color: #231f20;
+    color: #ffffff;
     margin: 25px 0;
 }
 
 .header-right-sidebar h4 {
     margin: 25px 0;
+    color: #9b9b9b;
 }
 
 .header-right-sidebar hr {
     margin: 28px 0 0 0;
     border: 1px solid;
     opacity: 1;
-    color: #000000;
+    color: #9b9b9b;
 }
 
 .header-right-sidebar .btn_hover1 {
@@ -708,7 +709,7 @@ aside .pages {
 
 .header-right-sidebar ul a {
     padding: 0 !important;
-    color: #231f20;
+    color: #ffffff;
 }
 
 .header-right-sidebar i {
